@@ -1,2 +1,2 @@
-#Repo for learning OpenCV
+# Repo for learning OpenCV
 Basically just the title for now
